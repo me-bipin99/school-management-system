@@ -7,7 +7,8 @@ school management system : a simple school system with crud operation
 - teacher management
 - student management
 
-###technology used
+  
+***technology used***
 - php
 - html
 - css
